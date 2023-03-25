@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NamitBhutani/NamitBhutani/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NamitBhutani/NamitBhutani/output/snake.svg?token=GHSAT0AAAAAAB7JLGLYTONIZ5HZVTDU6572ZA7K4WA" alt="Snake animation" />
 
 ###
 
