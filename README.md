@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Namit Bhutani and I'm a CS enthusiast, from India!</h2>
+<h2 align="center">Hi 👋! My name is Namit Bhutani and I'm a CS enthusiast, from India!</h2>
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<img align="right" height="200" src="https://pbs.twimg.com/media/EdXAwNXWoAA_tgd?format=jpg&name=medium"  />
+<br clear="both">
+
+<img align="right" height="180" src="https://pbs.twimg.com/media/EdXAwNXWoAA_tgd?format=jpg&name=medium"  />
 
 ###
 
@@ -43,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/NamitBhutani/NamitBhutani/output/snake.svg?token=GHSAT0AAAAAAB7JLGLYTONIZ5HZVTDU6572ZA7K4WA" alt="Snake animation" />
 
