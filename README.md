@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Namit Bhutani and I'm a CS enthusiast, from India!</h2>
+<h2 align="center">Hi 👋! My name is Namit and I'm a CS enthusiast, from India!</h2>
 
 ###
 
