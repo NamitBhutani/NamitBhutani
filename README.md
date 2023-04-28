@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img align="right" src="https://profile-counter.glitch.me/NamitBhutani/count.svg?"  />
-
-###
