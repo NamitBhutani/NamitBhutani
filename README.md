@@ -40,10 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NamitBhutani/NamitBhutani/output/snake.svg?token=GHSAT0AAAAAAB7JLGLYTONIZ5HZVTDU6572ZA7K4WA" alt="Snake animation" />
-
-###
-
 <img align="right" src="https://profile-counter.glitch.me/NamitBhutani/count.svg?"  />
 
 ###
