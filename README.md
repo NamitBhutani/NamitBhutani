@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋! My name is Namit and I'm a CS enthusiast, from India!</h2>
 
 <div align="center">
-  <img src="https://ghreadmeintello.vercel.app/api?username=NamitBhutani&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://ghreadmestatsfork.vercel.app/api?username=NamitBhutani&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=NamitBhutani&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://ghreadmeintello.vercel.app/api/top-langs?username=NamitBhutani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://ghreadmestatsfork.vercel.app/api/top-langs?username=NamitBhutani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
