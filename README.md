@@ -1,21 +1,29 @@
-<div align="center">
-  <img src="https://ghreadmestatsfork.vercel.app/api?username=NamitBhutani&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://ghreadmestatsfork.vercel.app/api/top-langs?username=NamitBhutani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+# Hi, I'm Namit Bhutani 👋
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="42" alt="svelte logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" width="42" alt="unreal logo" />
-</div>
+Computer Science student at BITS Pilani building real-time graphics systems. Interested in rendering algorithms, GPU programming, and procedural generation.
 
-###
+## 🎨 Projects
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/namitbhutani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/namitbhutani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+**[procLan](https://github.com/NamitBhutani/procLan)** — GPU-accelerated terrain generation using marching cubes compute shaders. Real-time mesh generation handling 100K+ polygons.
+
+**Polarization Rendering** — Physics-based VR system for photoelastic stress visualization with wavelength-dependent retardation in Unity/HLSL.
+
+**[radialGL](https://github.com/NamitBhutani/radialGL)** — Interactive tree visualization with radial layout algorithms in C++/OpenGL.
+
+## 🛠️ Tech Stack
+
+C++ · OpenGL · GLSL/HLSL · Unity · Compute Shaders · NixOS
+
+## 📚 Writing & Learning
+
+- Currently exploring: Real-time physically-based rendering techniques
+- Reading: SIGGRAPH papers on GPU optimization and procedural generation
+- Interested in: Graphics research at the intersection of performance and visual quality
+
+## 🎯 Currently
+
+Preparing for graduate studies in computer graphics. Open to research collaborations and graphics engineering opportunities.
+
+## 📫 Connect
+
+[nami.bhutt@gmail.com](mailto:namit.bhut@gmail.com) · [LinkedIn](https://linkedin.com/in/namitbhutani) · [Twitter](https://x.com/intellomaniac_)
