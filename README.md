@@ -17,7 +17,6 @@ C++ · OpenGL · GLSL/HLSL · Unity · Compute Shaders · NixOS
 ## 📚 Writing & Learning
 
 - Currently exploring: Real-time physically-based rendering techniques
-- Reading: SIGGRAPH papers on GPU optimization and procedural generation
 - Interested in: Graphics research at the intersection of performance and visual quality
 
 ## 🎯 Currently
