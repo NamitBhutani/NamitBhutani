@@ -7,15 +7,15 @@ I like making computers draw things fast. Mostly, that means writing C++, wrestl
 I'm actively looking for SDE, Systems Software Engineer, Computer Graphics and Applied Research Engineer roles.
 
 ### 🚀 Where I've been
-* **DGP Lab, UofT:** Currently researching realtime Gaussian Splatting workflows. I'm building Houdini C++ plugins with custom BVH structures and engineering sub-50ms ML feature pipelines to make rendering and segmentation veery fast.
-* **Blender (GSoC '25):** Spent a summer deep in Blender's core C++ codebase. I optimized the production sculpting pipeline for 1M+ vertex meshes using spatial cache reordering (boosting throughput by 35%) and implemented zstd compression for the undo engine to slash memory overhead.
+* **DGP Lab, UofT:** Currently researching realtime Gaussian Splatting workflows. I'm building Houdini plugins with custom BVH structures and engineering sub-50ms ML feature pipelines to make segmentation veery fast.
+* **Blender (GSoC '25):** Spent a summer deep in Blender's C++ codebase. I optimized the production sculpting pipeline for 1M+ vertex meshes using spatial cache reordering (boosting throughput by 35%) and implemented zstd compression for the undo engine to slash memory overhead.
 * **Vidcentum Technologies:** Built async Python/Meilisearch microservices that happily handled 1,000+ req/sec with sub-100ms query latency across 50K+ documents.
 
 ### 🛠️ Stuff I've built
 * **[Real-Time Photoelasticity (PG 2026)](https://github.com/NamitBhutani/realtime-photoelasticity-falcor):** SIMD-vectorized Monte Carlo ray-marching estimator in C++ and NVIDIA Falcor. Cut per-frame optical integration cost by 4× and eliminated ghosting under dynamic loads. 
 * **[procLand](https://github.com/NamitBhutani/procLan):** A GPU procedural terrain engine. Uses C++, OpenGL compute shaders, and an optimized SSBO pipeline to push 100K+ polygons in real time from noise.
-* **Chronofactorem:** A Dockerized scheduling platform backed by PostgreSQL and async microservices that handles timetable conflicts for 4,000+ students.
-* **[GaussianSplatRenderUENiagara](https://github.com/NamitBhutani/GaussianSplatRenderUENiagara):** Hooking up 3D Gaussian Splatting rendering through custom C++ Niagara Data Interfaces in Unreal Engine.
+* **Chronofactorem:** A Dockerized timetable platform backed by PostgreSQL and async microservices that handles 4,000+ students.
+* **[GaussianSplatRenderUENiagara](https://github.com/NamitBhutani/GaussianSplatRenderUENiagara):** Hooking up 3D Gaussian Splatting rendering through custom C++ Niagara Data Interfaces in Unreal Engine for fun.
 * **LegalTree:** Built a RAG pipeline and engineered methods to guide LLMs in pulling structured semantic triplets from 10,000+ legal texts *(Paper under review)*.
 
 ### 💻 My toolbelt
