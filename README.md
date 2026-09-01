@@ -1,6 +1,6 @@
 # Namit Bhutani 👋
 
-Hey! I'm a CS & Economics undergrad at BITS Pilani ('27), currently spending my time in Toronto as a visiting researcher at the DGP Lab (UofT). 
+Hey! I'm a CS & Economics undergrad at BITS Pilani ('27), currently in Toronto as a visiting researcher at the DGP Lab (UofT). 
 
 I like making computers draw things fast. Mostly, that means writing C++, wrestling with GPUs, and building low-level systems. I also have a knack for backend infrastructure and applied ML when the project calls for it. 
 
